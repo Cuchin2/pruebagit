@@ -1,0 +1,12 @@
+Pasos para crear un repositorio en github
+Despues de tener cuenta de github
+
+1) crear un carpeta
+2) ingresas a ella desde Git consola
+3) escribir: git init
+4) git config user.name "cuchin2"
+5) git config user.mail "luis.lucho3210@gmail.com"
+6) git remote add origin https://github.com/Cuchin2/pruebagit.git
+7) git status
+8) 
+
