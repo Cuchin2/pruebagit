@@ -1,4 +1,4 @@
-Pasos para crear un repositorio en github
+Pasos para crear un repositorio en github bb
 Despues de tener cuenta de github
 
 1) crear un carpeta
